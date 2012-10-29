@@ -1,0 +1,4 @@
+using a CountDownTimer along with MediaPlayer in Android. When the timer expires, a sound is played.
+
+Eclipse Helios
+Target platform : Android 2.3.3
